@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b6a6c9c8.css",
+    "main.js": "/static/js/main.3a7638d0.js",
+    "static/media/rickfondo1.jpg": "/static/media/rickfondo1.6afb575725f6e6f88768.jpg",
+    "index.html": "/index.html",
+    "main.b6a6c9c8.css.map": "/static/css/main.b6a6c9c8.css.map",
+    "main.3a7638d0.js.map": "/static/js/main.3a7638d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6a6c9c8.css",
+    "static/js/main.3a7638d0.js"
+  ]
+}
